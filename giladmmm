@@ -1,0 +1,2 @@
+first_name= "gilad"
+puts "tour name is #{first_name}!"
